@@ -10,9 +10,9 @@
 
 ### 🎓 B.Tech CSE (AI/ML) @ SRM University-AP &nbsp;|&nbsp; CGPA: 9.48 &nbsp;|&nbsp; 2023–2027
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharma-teja-pamarthi-834685286/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://personal-portfolio-tau-two-42.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharmatejapamarthi143@gmail.com)
 
 </div>
 
@@ -24,9 +24,8 @@
 const developer = {
   education : "B.Tech CSE (AI/ML) — SRM University-AP",
   cgpa      : 9.48,
-  passion   : ["Full-Stack Development", "Deep Learning", "Civic Tech"],
-  currentlyBuilding : "Scalable MERN apps & AI-powered systems",
-  funFact   : "I turn community problems into tech solutions 🌍"
+  passion   : ["Full-Stack Development", "Deep Learning"],
+  currentlyBuilding : "Scalable MERN apps & AI-powered systems"
 };
 ```
 
@@ -72,7 +71,7 @@ const developer = {
 ## 🏆 Featured Projects
 
 ### 🌾 AgriLink — Farmer-to-Buyer Marketplace Platform
-> **[Code](#) | [Live Demo](#)**
+> **[Code](https://github.com/dharmateja19/Agri-Link) | [Live Demo](https://agri-link-blond.vercel.app/)**
 
 A full-stack **MERN marketplace** enabling farmers to connect directly with buyers for seamless crop sales, communication, and order handling.
 
@@ -86,7 +85,7 @@ A full-stack **MERN marketplace** enabling farmers to connect directly with buye
 ---
 
 ### 🏛️ Community Problem Solver — Smart Civic Engagement Platform
-> **[Code](#) | [Live Demo](#)**
+> **[Code](https://github.com/dharmateja19/Community_Problem_Solver) | [Live Demo](https://community-problem-solver-puce.vercel.app/)**
 
 A full-stack **civic tech platform** connecting citizens and local authorities for issue reporting, solution sharing, voting, and progress tracking.
 
@@ -100,7 +99,7 @@ A full-stack **civic tech platform** connecting citizens and local authorities f
 ---
 
 ### 🤖 Deepfake Image Detection System
-> **[Code](#)**
+> **[Code](https://github.com/dharmateja19/DeepFake_Image_Detection)**
 
 A full-stack **AI-powered web application** classifying images as Real or Fake using CNN-based deep learning with ensemble prediction logic.
 
@@ -117,8 +116,8 @@ A full-stack **AI-powered web application** classifying images as Real or Fake u
 
 | Certification | Issuer | Status |
 |---|---|---|
-| 🍃 **MongoDB Certified Associate Developer - Node.js** | MongoDB | ✅ Verified |
-| ☕ **Oracle Certified Professional: Java SE 17 Developer (OCP 17)** | Oracle | ✅ Verified |
+|  **MongoDB Certified Associate Developer - Node.js** | MongoDB | ✅ Verified |
+|  **Oracle Certified Professional: Java SE 17 Developer (OCP 17)** | Oracle | ✅ Verified |
 
 ---
 
@@ -133,10 +132,10 @@ A full-stack **AI-powered web application** classifying images as Real or Fake u
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dharmateja19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmateja19&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmateja19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="40%"/>
 
 </div>
 
@@ -144,7 +143,7 @@ A full-stack **AI-powered web application** classifying images as Real or Fake u
 
 <div align="center">
 
-### 💡 *"Code is not just logic — it's a bridge between people and possibilities."*
+###  *"Code is not just logic — it's a bridge between people and possibilities."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
